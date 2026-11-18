@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+build/
+*.spec
+_*.py
+_distclean.py
+# 忽略 dist 下其他产物，但保留打包好的 exe
+dist/*
+!dist/批量手机电脑传照片.exe
